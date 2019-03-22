@@ -1,0 +1,5 @@
+JUnit5:[JUnit Platform + JUnit Jupiter + JUnit Vintage]
+Junit Platform: 在 JVM 上启动测试框架的基础
+JUnit Jupiter: JUnit 5中编写测试和扩展的新编程模型和扩展模型的组合.
+	Jupiter子项目提供了一个TestEngine在平台上运行基于Jupiter的测试。
+JUnit Vintage: 提供了一个TestEngine在平台上运行基于JUnit 3和JUnit 4的测试。
